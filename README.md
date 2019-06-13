@@ -1,2 +1,3 @@
 # mynewrepo
 Workshop
+new line
